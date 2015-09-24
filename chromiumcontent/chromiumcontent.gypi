@@ -3,6 +3,8 @@
     # Enalbe using proprietary codecs.
     'proprietary_codecs': 1,
     'ffmpeg_branding': 'Chrome',
+    'enable_plugins': 1,
+    'chromecast': 0,
     'enable_widevine': 1, 
     'enable_pepper_cdms': 1, 
     'enable_webrtc': 1,
