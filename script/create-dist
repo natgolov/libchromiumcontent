@@ -59,8 +59,8 @@ BINARIES = {
     'libdevtools_discovery.a',
     'libdevtools_http_handler.a',
     'libhttp_server.a',
-    os.path.join('obj', 'components', 'libcdm_renderer.a'),
-    os.path.join('obj', 'components', 'libcomponent_updater.a'),
+    'libcdm_renderer.a',
+    'libcomponent_updater.a',
   ],
   'linux': [
     'chromedriver',
